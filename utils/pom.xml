@@ -11,5 +11,13 @@
 
     <artifactId>utils</artifactId>
 
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
+        <dependency>
+            <groupId>org.apache.struts</groupId>
+            <artifactId>struts2-core</artifactId>
+            <version>2.3.20</version>
+        </dependency>
+    </dependencies>
 
 </project>
